@@ -38,6 +38,7 @@ html{
 .row{
     display: flex;
     align-items: center;
+    /* width: 90%; */
     justify-content: space-between;
     background: #edeef0;
     border-radius: 30px;
