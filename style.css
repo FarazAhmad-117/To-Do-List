@@ -53,12 +53,16 @@ html{
     padding: 10px;
     font-weight: 14px;
 }
+@media screen and (max-width:400px){
+    .row{
+        padding: 0;
+    }
+}
 .row button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    /* background: #ff5945; */
-    background-color: #002765;
+    background: #ff5945;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
