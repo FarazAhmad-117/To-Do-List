@@ -57,7 +57,8 @@ html{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    /* background: #ff5945; */
+    background-color: #002765;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
